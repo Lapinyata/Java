@@ -1,0 +1,1 @@
+Point of intersection with minimum abscissa: (2.692307692307692, 1.846153846153846)
